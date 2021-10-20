@@ -1,0 +1,122 @@
+.main,footer,.base3,.base4,.base5,.base6,.base7{
+    padding:0 15vw;
+}
+.base1,.main,footer,.base4,.base5,.base6{
+    background-color: #212529;
+}
+.popup{
+    margin:0;
+    background-color: #212529!important ;
+}
+.container-fluid{
+        padding:0 15vw!important;
+}
+.navbar-brand{
+    color:aliceblue;
+    font-size:1.7vw!important;
+    font-weight: bold!important;
+}
+.nav-item{
+    font-size:1.4vw!important;
+}
+.nav-link{
+    color: white!important;
+}
+.nav-item:hover{
+    background-color: #1f2327;
+    padding: 0.3vw 1vw ;
+}
+.nav-item,.navbar-brand{
+        padding: 0.4vw 0.9vw ;
+}
+.base1{
+    padding: 0!important;
+    margin: 0!important;
+}
+.navbar-nav{
+    padding: 0.2vw!important;
+    margin-top: 0.1vw!important;
+    margin-bottom:0.1vw!important;
+}
+.base2{
+    padding: 7vw 3vw 5vw ;
+}
+.base3{
+    padding-bottom: 5vw;
+}
+.picture>img{
+    padding: 1rem;
+    width:35vw;
+    height:35vw;
+}
+.initial_heading>h1{
+    font-size:9vw;
+} 
+.initial_heading>h2{
+    font-size: 3.5vw;
+}  
+.initial_heading>h1,.initial_heading>h2{
+    color:white;
+}
+.fa-arrow-circle-down{
+    padding: 1vw 0;
+    color:aliceblue;
+}
+.handles,.fa-hamburger,.fa-behance,.fa-bars{
+    padding:0.5vw;
+    color:aliceblue;
+}
+.change-icon>.fas +.fas, .change-icon:hover>.fas{
+    display:none;
+}
+.change-icon:hover > .fas + .fas {
+  display: inherit;
+}
+.web{
+    color:white;
+}
+#lookwhatIdo>h1,#getintouch>h2{
+    color:  #212529;
+    padding: 5vw 0 4vw;
+    text-align: center;
+    font-weight:bold;
+    font-size: 3vw;;
+}
+#webdev>h2,#graphicdesigning>h2,#competitive-coding>h2{
+    color:  #ffffff;
+    padding: 4vw 0 1vw;
+    text-align: center;
+    font-weight:800;
+
+}
+#frontend>h3,#backend>h3,#software>h3,#competitive-language>h3{
+    padding: 1vw 0 1.2vw;
+    color:  #bebebe;
+    text-align: center;
+}
+.base6{
+    padding-bottom: 5vw;
+}
+#contactme{
+    padding-bottom: 5vw;
+}
+#contact-me-button{
+    
+    background-color: #212529;
+    font-size:2.4vw;
+    padding: 1vw 2vw 1vw;
+}
+.icons{
+    width: 10vw;
+    height: 10vw;
+}
+.icons,.icon-text{
+    padding: 1vw;;
+}
+
+
+
+
+footer{
+    padding:4vw 15vw;
+}
